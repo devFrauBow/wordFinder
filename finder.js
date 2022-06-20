@@ -1,3 +1,5 @@
+//i'm using readline-sync for inputs here just for example but you can remove it and just use finder(a, b)
+
 const input = require('readline-sync')
 
 let a = input.question('a\n')
