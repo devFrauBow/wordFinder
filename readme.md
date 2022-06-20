@@ -21,7 +21,7 @@ or
 [1] Jackson has 0 bananas and 20 gold
 I recive the number to acess the array
 
-Imagine the user chooses 0 
+Imagine the user chooses 0
 choose = 0
 
 now we use the finder to acess the object in order to change data in the database
